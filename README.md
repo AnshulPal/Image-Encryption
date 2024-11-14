@@ -35,7 +35,6 @@ Moreover, **certain** chaos-based and other dynamical systems based algorithms h
 <br>
 Alternatively it is in ChaosEncryption.ipynb
 <br>
-Write-up for the report is in ChaosMaps_WriteUp.pdf .
 ## Images
 ### Original Image
 
